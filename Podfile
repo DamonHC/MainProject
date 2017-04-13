@@ -12,6 +12,8 @@ target 'MainProject' do
   pod 'HandyFrame'
   pod 'ModuleA'
   pod 'ModuleB'
+  pod 'MediatorA'
+  pod 'MediatorB'
   # pod "ModuleA_Category", :path => "../ModuleA_Category"
   # pod "ModuleA", :path => "../ModuleA"
   # pod "ModuleB", :path => "../ModuleB"
